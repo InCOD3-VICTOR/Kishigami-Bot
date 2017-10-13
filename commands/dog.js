@@ -11,4 +11,6 @@ exports.run = async (client, msg, args) => {
 	}
   module.exports.help = {
     name: "dog",
+    description: "Gets those cute little dog images for you",
+    usage: "dog"
   }
