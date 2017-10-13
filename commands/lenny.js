@@ -4,4 +4,6 @@ message.delete();
 	}
   module.exports.help = {
   name: "lenny",
+  description: "displays the lenny face ( ͡° ͜ʖ ͡°)",
+  usage: "lenny"
   }
