@@ -6,4 +6,6 @@ message.delete();
 	}
   module.exports.help = {
   name: "emoji",
+  description: "Lists all the custom emoji's for the server",
+  Usage: "emoji"
   }
